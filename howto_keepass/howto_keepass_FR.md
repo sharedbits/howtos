@@ -1,19 +1,19 @@
 # How to - KeePass
 
 - [How to - KeePass](#how-to---keepass)
-  - [Présentation du logiciel](#pr%c3%a9sentation-du-logiciel)
+  - [Présentation du logiciel](#présentation-du-logiciel)
   - [Installation](#installation)
     - [Pour Windows](#pour-windows)
-    - [Installation du pack de langue français](#installation-du-pack-de-langue-fran%c3%a7ais)
+    - [Installation du pack de langue français](#installation-du-pack-de-langue-français)
   - [Utilisation](#utilisation)
-    - [Créer une base de données](#cr%c3%a9er-une-base-de-donn%c3%a9es)
-    - [Créer une nouvelle entrée dans la base de donnée](#cr%c3%a9er-une-nouvelle-entr%c3%a9e-dans-la-base-de-donn%c3%a9e)
-    - [Utiliser une entrée existante](#utiliser-une-entr%c3%a9e-existante)
-    - [Utiliser le générateur de mot de passe](#utiliser-le-g%c3%a9n%c3%a9rateur-de-mot-de-passe)
+    - [Créer une base de données](#créer-une-base-de-données)
+    - [Créer une nouvelle entrée dans la base de donnée](#créer-une-nouvelle-entrée-dans-la-base-de-donnée)
+    - [Utiliser une entrée existante](#utiliser-une-entrée-existante)
+    - [Utiliser le générateur de mot de passe](#utiliser-le-générateur-de-mot-de-passe)
 
 ## Présentation du logiciel
 
-[KeePass][website] est  un logiciel dit "gestionnaire de mots de passe". Sa fonction est de sauvegarder dans un fichier de base de donnée, tous vos mots de passe. Cette base de donnée est bien évidemment chiffrée pour garantir la confidentialité des informations qui y sont contenues.
+[KeePass][website] est un logiciel dit "gestionnaire de mots de passe". Sa fonction est de sauvegarder dans un fichier de base de donnée, tous vos mots de passe. Cette base de donnée est bien évidemment chiffrée pour garantir la confidentialité des informations qui y sont contenues.  
 D'autres logiciels gestionnaires de mots de passe existent, mais je n'ai pas eu l'occasion de les tester personnellement ([1Password][1password], [LastPass][lastpass], ...). [KeePass][website] est un bon choix pour la gestion de vos mots de passe puisque recommandé par l'[ANSSI][anssi].
 
 ## Installation
@@ -26,7 +26,7 @@ L'installation du logiciel se déroule de façon classique.
 ### Installation du pack de langue français
 
 Les packs de langue se trouvent sur la page [Translations](https://keepass.info/translations.html). Choisissez le pack français correspondant à la version téléchargée et installée de KeePass.  
-Une fois le pack téléchargé, ouvrez le logiciel, et allez à "Display > Change language...". Sur la partie inférieure gauche de la fenêtre nouvellement ouverte, cliquez sur "Open Folder". L'explorateur Windows s'ouvre dans le dossier permettant de stocker les différents packs de langue. Copiez le pack de langue français téléchargé à cet emplacement.  
+Une fois le pack téléchargé, ouvrez le logiciel, et allez à "Display > Change Language...". Sur la partie inférieure gauche de la fenêtre nouvellement ouverte, cliquez sur "Open Folder". L'explorateur Windows s'ouvre dans le dossier permettant de stocker les différents packs de langue. Copiez le pack de langue français téléchargé à cet emplacement.  
 Relancez le logiciel, et re-sélectionnez "Display > Change Language..." : le français est maintenant disponible.
 
 ## Utilisation
