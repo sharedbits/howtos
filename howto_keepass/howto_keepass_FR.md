@@ -37,7 +37,7 @@ Relancez le logiciel, et re-sélectionnez "Display > Change Language..." : le fr
 1. A l'écran suivant, sélectionnez l'emplacement pour votre future nouvelle base de données, ainsi que son nom. ![Sauvegarde la base](2_save_base.png)
 1. A l'écran suivant, il vous est demandé de saisir le mot de passe principal de votre base. Ce mot de passe est celui qui protégera tous vos autres mots de passe. Il est important de bien le choisir. Quelques conseils :
    1. Un mot de passe robuste se définit essentiellement sur sa longueur, et non pas sur la richesse du dictionnaire utilisé
-   1. Introduire malgré tout quelques caractères spéciaux ou chiffres en substitution de certaines lettres normales améliorera également la robustesse de votre mot de passe (code l33t)
+   1. Introduire malgré tout quelques caractères spéciaux ou chiffres en substitution de certaines lettres normales améliorera également la robustesse de votre mot de passe (code 1337)
    1. On se souvient beaucoup plus facilement d'un mot de passe qui nous touche personnellement qu'une série apparemment aléatoire de caractères
    1. Le logiciel vous donne une estimation de la complexité de votre mot de passe en bits. Un mot de passe est actuellement considéré comme solide si sa complexité dépasse les 80 bits.
    1. Exemple de bons mot de passe :
