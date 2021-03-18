@@ -10,6 +10,7 @@
     - [Créer une nouvelle entrée dans la base de donnée](#créer-une-nouvelle-entrée-dans-la-base-de-donnée)
     - [Utiliser une entrée existante](#utiliser-une-entrée-existante)
     - [Utiliser le générateur de mot de passe](#utiliser-le-générateur-de-mot-de-passe)
+    - [Sauvegarde de la base de données](#sauvegarde-de-la-base-de-données)
 
 ## Présentation du logiciel
 
@@ -79,6 +80,11 @@ Pour commencer, dans l'onglet "Entrée" d'une entrée, ouvrez le générateur de
 Nous ne nous concentrerons ici que sur l'onglet "Paramètres" du générateur. Vous êtes libre d'explorer les autres options. Sur cet écran, définissez les paramètres de complexité que vous souhaitez pour votre mot de passe. Ces paramètres seront respectés par le générateur. _Le jeu de paramètres que j'utilise le plus souvent est celui montré sur la capture d'écran suivante._ ![Paramètres générateur](8_parametres_generateur.png)  
 Une fois vos paramètres choisis, cliquez simplement sur "OK" pour qu'un mot de passe y correspondant soit généré et saisi dans le champ mot de passe de l'entrée.
 
+### Sauvegarde de la base de données
+
+À force d'usage de KeePass, votre base de données contiendra de plus en plus de vos mots de passe, voire leur intégralité. Il est donc capital que vous ayez plusieurs sauvegardes locales de votre base de données afin de pouvoir la récupérer en cas de panne matérielle ou logicielle sur votre ordinateur et/ou téléphone portable.  
+Si vous avez suivi mes conseils lors du paramétrage initial de votre base de données, celle-ci est bien sécurisée et sera très difficilement compromissible même si un attaquant parvenait à mettre la main dessus. C'est pour cette raison que vous pouvez vous permettre de la sauvegarder en de multiples endroits que l'on considère habituellement peu fiable en termes de sécurité.  
+Ainsi, si vous avez un ou plusieurs comptes sur des services en ligne de stockage de données (Google Cloud, Dropbox, OneDrive, ...), vous pouvez sans souci y déposer une copie de votre fichier de base de données. Assurez-vous cependant que lorsque vous la sauvegardez, la synchronisation vers le service choisit de fasse bien ! Sinon vous risquez d'avoir des conflits sur la base de données si celle-ci est modifiée sur 2 périphériques différents.
 
 [website]: https://keepass.info
 [1password]: https://1password.com/

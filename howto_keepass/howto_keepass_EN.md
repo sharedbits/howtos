@@ -10,6 +10,7 @@
     - [Create a new entry in the database](#create-a-new-entry-in-the-database)
     - [Use an existing entry](#use-an-existing-entry)
     - [Use the password generator](#use-the-password-generator)
+    - [Save the database](#save-the-database)
 
 ## Introduction to the software
 
@@ -77,6 +78,12 @@ This is probably the most useful tool in KeePass. It allows you, with a variety 
 To begin, go to the "Entry" tab of an entry, and open the password generator. ![Open generator](7_ouvrir_generateur.png)  
 We will focus here solely on the "Settings" tab of the generator. You're free to explore the other options. On this screen, define the complexity settings required for your password. Do not hesitate to pump them up if the service allows you! (ie.: the service tells you to use at least 12 characters but allows you to use 26, please use 26!). Those settings will be used by the generator to create a password matching those rules. _The settings I use most are the ones shown in the below screenshot._ ![Generator settings](8_parametres_generateur.png)  
 One your settings are defined, simply click "OK" so that a matching password is generated and entered in the password field of the entry.
+
+### Save the database
+
+After some time using KeePass, your database will contain more and more passwords, maybe even all of them. It is crucial that you have several local saves of your database so you can retrieve it in case of a material or software failure one your computer and/or mobile phone.  
+If you followed my adivce during the initial set up of your database, it is properly secured and will be extremely hard to compromise event if an attacker managed to steal it. It's the reason why you can save it in multiple places that would ordinarily be considered as unreliable in terms of security.  
+Therefore, if you have one or several account on online storage services (Google Cloud, Dropbox, OneDrive, ...), you can drop a copy of your database there safely. Just make sure that when saving it, the database is synced to the desired service! Otherwise, you risk having conflicts in your databse if modified on 2 different devices.
 
 
 [website]: https://keepass.info
